@@ -13,3 +13,9 @@ Hi-score table
 
 ## Downloads
 [version 1.0 (20181012 - win32)](https://sourceforge.net/projects/columns-for-windows/files/Columns_1.0/Columns_1.0_bin.zip/download)
+
+
+## Screenshots
+
+![Screenshot 1](https://i.postimg.cc/jjPtzwYW/Image1.jpg "Screenshot 1")
+
