@@ -219,7 +219,7 @@ implementation
 
 uses
   cl_utils;
-  
+
 function TColumnsColorToTColor(t: TColumnsColor): TColor;
 begin
   case t of
@@ -692,7 +692,7 @@ var
 begin
   if fGameOver then
     Exit;
-    
+
   for i := 1 to fSettings.Columns do
     for j := 1 to fSettings.Rows do
       tmp[i, j] := ccNone;
